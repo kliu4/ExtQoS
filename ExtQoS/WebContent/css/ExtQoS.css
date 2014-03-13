@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+.icon-reset {
+    background-image: url(../images/stop.png) !important;
+}
+.icon-run {
+    background-image: url(../images/play.png) !important;
+}
+.icon-add {
+    background-image: url(../images/add.png) !important;
+}
+.icon-delete {
+    background-image: url(../images/delete.png) !important;
+}
+.icon-feeds {
+    background-image: url(../images/feeds.png) !important;
+}
